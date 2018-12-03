@@ -1,0 +1,2 @@
+# myawesomeproject
+учебный репозиторий
